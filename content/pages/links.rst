@@ -7,6 +7,6 @@ Links
 
 Media:
 
-* `Unser Youtube-Channel! <https://youtube.com>`_
+* `Unser Youtube-Channel! <https://www.youtube.com/channel/UCnW0yI-IpZz4w5zfGz1rf7g>`_
 
 
