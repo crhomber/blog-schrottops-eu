@@ -4,4 +4,4 @@ Verwendet jemand Office aufm Mac?
 :slug: office-mac-1
 :tags: Microsoft, Office, Apple, MacOS
 
-Anscheinend kann man das nicht richtig `aktivieren <https://heise.de/-4122268>`_. Musst wohl ein Update kaufen!
+Anscheinend kann man das nicht richtig `aktivieren <https://heise.de/-4122268>`_. Musst wohl ein Update kaufen oder per telefon aktivieren!
